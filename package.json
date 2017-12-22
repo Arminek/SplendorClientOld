@@ -1,0 +1,50 @@
+{
+  "name": "splendorclient",
+  "version": "1.0.0",
+  "description": "Splendor Client",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/flux": "^3.1.4",
+    "@types/history": "^4.6.2",
+    "@types/react": "^16.0.31",
+    "@types/react-dom": "^16.0.3",
+    "@types/react-router": "^4.0.20",
+    "@types/react-router-dom": "^4.2.3",
+    "@types/uuid": "^3.4.3",
+    "flux": "^3.1.3",
+    "history": "^4.7.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "uuid": "^3.1.0",
+    "validate-typescript": "^1.1.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --content-base dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arminek/SplendorClient.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Typescript"
+  ],
+  "author": "Arkadiusz Krakowiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arminek/SplendorClient/issues"
+  },
+  "homepage": "https://github.com/Arminek/SplendorClient#readme"
+}

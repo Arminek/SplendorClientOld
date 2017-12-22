@@ -17,11 +17,11 @@ Event storming
 Episodes
 --------
 
-1. [Pilot: Creating Player Profiles](/docs/CreatingPlayerProfiles.md)
+1. Creating Player Profiles
 
 ![alt text](docs/media/CreatingProfiles.png)
 
-2. [Pilot: Creating & Joining Games](/docs/CreatingPlayerProfiles.md)
+2. Creating & Joining Games
 
 ![alt text](docs/media/JoiningGames.png)
 
